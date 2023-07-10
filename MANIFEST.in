@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include libms *.css
+recursive-include libms *.csv
+recursive-include libms *.html
+recursive-include libms *.ico
+recursive-include libms *.js
+recursive-include libms *.json
+recursive-include libms *.md
+recursive-include libms *.png
+recursive-include libms *.py
+recursive-include libms *.svg
+recursive-include libms *.txt
+recursive-exclude libms *.pyc
