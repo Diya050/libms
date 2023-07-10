@@ -1,7 +1,3 @@
 ## Library Management System
 
-This is a Library Management System
-
-#### License
-
-y
+This is a Library Management System.
