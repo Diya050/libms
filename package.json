@@ -1,0 +1,22 @@
+{
+  "name": "libms",
+  "version": "1.0.0",
+  "description": "This is a Library Management System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd Frontend && yarn dev",
+    "build": "cd Frontend && yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diya050/libms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diya050/libms/issues"
+  },
+  "homepage": "https://github.com/Diya050/libms#readme"
+}

@@ -199,3 +199,5 @@ app_license = "y"
 # auth_hooks = [
 #	"libms.auth.validate"
 # ]
+
+website_route_rules = [{'from_route': '/frontend/<path:app_path>', 'to_route': 'frontend'}, {'from_route': '/Frontend/<path:app_path>', 'to_route': 'Frontend'},]
