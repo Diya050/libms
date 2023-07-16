@@ -19,8 +19,7 @@
   "status",
   "publisher",
   "published",
-  "route",
-  "category"
+  "route"
  ],
  "fields": [
   {
@@ -80,19 +79,13 @@
    "fieldname": "route",
    "fieldtype": "Data",
    "label": "Route"
-  },
-  {
-   "fieldname": "category",
-   "fieldtype": "Link",
-   "label": "Category",
-   "options": "Category"
   }
  ],
  "has_web_view": 1,
  "image_field": "image",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-07-11 10:44:30.521855",
+ "modified": "2023-07-16 12:49:00.254007",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Article",
